@@ -1,3 +1,6 @@
+_Ran Object Detection Demo with YOLOv4 and YOLOv4 Tiny in IR format.
+  Models can be accessed through omz_downloader and omz_converter seen below._
+
 # Object Detection Python\* Demo
 
 ![example](../object_detection.gif)
