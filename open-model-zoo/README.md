@@ -1,3 +1,8 @@
+Run Open Model Zoo demos.
+
+List of demos ran successfully:
+1. Object Detection in Python with YOLOv4 and YOLOv4 Tiny in IR format.
+
 # [OpenVINO™ Toolkit](https://docs.openvino.ai/2023.0/index.html) - Open Model Zoo repository
 This repository includes optimized deep learning models and a set of demos to expedite development of high-performance deep learning inference applications. Use these free pre-trained models instead of training your own models to speed-up the development and production deployment process.
 
